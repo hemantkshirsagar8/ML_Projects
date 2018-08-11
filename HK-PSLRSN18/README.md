@@ -39,6 +39,7 @@ _Note*: These are tentative dates._
 ML hints for your ideas:
 
 [_These are only to get motivated and come up with your own related ideas._]
+
 1. YOLO [_Search online about it's v3 version_]
 
     [Demo video](https://www.youtube.com/watch?v=BNHJRRUKMa4)
@@ -64,6 +65,8 @@ ML hints for your ideas:
 5. OpenCv gesture recognition
  
     [Example](https://www.youtube.com/watch?v=v-XcmsYlzjA)
+
+Bonus Hint: [Playing Card detection using YOLO](https://www.youtube.com/watch?v=pnntrewH0xg)
 
 
 _Enough motivation, lets learn to implement it._
