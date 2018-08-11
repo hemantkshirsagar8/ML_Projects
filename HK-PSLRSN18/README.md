@@ -65,6 +65,8 @@ ML hints for your ideas:
  
     [Example](https://www.youtube.com/watch?v=v-XcmsYlzjA)
 
+Bonus Hint: [Playing Card detection using YOLO](https://www.youtube.com/watch?v=pnntrewH0xg)
+
 
 _Enough motivation, lets learn to implement it._
 
