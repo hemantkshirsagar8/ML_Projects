@@ -1,3 +1,3 @@
 Name,Doubts,MentorComment
 Suvrat_Mishra,What is a regex pattern,Thanks for asking Suvrat. Regular expression is widely used in any scripting language. For Python plz refer this: https://docs.python.org/3/howto/regex.html
-Vivek Kadu, What is TensorFlow and Scikit-Learn are they same or different and which one we will use in our project ??,
+Vivek Kadu, What is TensorFlow and Scikit-Learn are they same or different and which one we will use in our project ??,Thanks for asking Vivek.TensorFlow is the open source ML library now owned by Google. Sci-kit learn is also for ML python based open source library. Both are different libraries for similar purpose. You read on Wikipedia about this. Its all depends on your ideas and suggestion to use any particular library. However tensorflow is good to move ahead. Lets see it on 17 Aug as per your ideas.
