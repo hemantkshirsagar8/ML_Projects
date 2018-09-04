@@ -13,9 +13,17 @@ Contributer's:
 Mentor:
 1. Hemant Kshirsagar
 
+
+Divyanshu/Shubham: Cotton boll weevil: 2000 Images
+
+Suvrat/Tushar: Cotton aphid: 2000 Images
+
+Viraj/Vivek/Bhagyashree: Pest for ornages: 2000 Images
+
+
 Next target date:
 
-**17 Aug**: _To come-up with idea's_
+**7 Sep**: _To come-up with idea's_
 
 Doubts:
 Use [doubts.csv](doubts.csv) file to list your doubts.
