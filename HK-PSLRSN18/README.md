@@ -16,16 +16,16 @@ Machine Learning and AI related project work.
 
 **Ongoing task**: Data collection and analysis
 
-...1. **Divyanshu/Shubham**: Cotton boll weevil: 2000 Images
+..1. **Divyanshu/Shubham**: Cotton boll weevil: 2000 Images
 
-...2. **Suvrat/Tushar**: Cotton aphid: 2000 Images
+..2. **Suvrat/Tushar**: Cotton aphid: 2000 Images
 
-...3. **Viraj/Vivek/Bhagyashree**: Pest for oranges - 'Citrus Canker': 2000 Images
+..3. **Viraj/Vivek/Bhagyashree**: Pest for oranges - 'Citrus Canker': 2000 Images
 
 
 **Next target date**:
 
-... **7 Sep**: _To come-up with image dataset_
+.. **7 Sep**: _To come-up with image dataset_
 
 Doubts:
 Use [doubts.csv](doubts.csv) file to list your doubts.
@@ -45,6 +45,9 @@ Weeks [tentative end date] | Activity | Comments |Status
 
 _Note*: These are tentative dates._
 
+TensorFlow custom object detection - references:
+..1. [Creating TFRecords - TensorFlow Object Detection API Tutorial 4-6](https://www.youtube.com/watch?v=kq2Gjv_pPe8)
+..2. [How To Train an Object Detection Classifier Using TensorFlow 1.5 (GPU) on Windows 10](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
 
 ML hints for your ideas:
 
