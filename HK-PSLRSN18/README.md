@@ -14,7 +14,8 @@ Machine Learning and AI related project work.
 1. Hemant Kshirsagar
 
 
-**Ongoing task**: Data collection and analysis
+**Ongoing task**: _Data collection and analysis_
+
 
 1. **Divyanshu/Shubham**: Cotton boll weevil: 2000 Images
 
@@ -25,9 +26,11 @@ Machine Learning and AI related project work.
 
 **Next target date**:
 
+
 **7 Sep**: _To come-up with image dataset_
 
 Doubts:
+
 Use [doubts.csv](doubts.csv) file to list your doubts.
 
 Schedule:
@@ -35,7 +38,7 @@ Schedule:
 Weeks [tentative end date] | Activity | Comments |Status 
 ---|---|---|---|
 1 week [17 Aug]|Come-up with idea's|Fill up your idea's in [idea_list](idea_list.csv). |Completed
-1 week [24 Aug]|Python hands-on, learning and discusion on received ideas.|NA|On going task
+1 week [24 Aug]|Python hands-on, learning and discusion on received ideas.|NA|Completed
 1 week [31 Aug]| Problem statement finalisation|NA|In-progress
 1 week [07 Sep]|Design level discusion|NA|In-progress
 3-4 weeks[TBD]|Implementation|NA|Open
