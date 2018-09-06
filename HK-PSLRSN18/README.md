@@ -23,6 +23,12 @@ Machine Learning and AI related project work.
 
 3. **Viraj/Vivek/Bhagyashree**: Pest for oranges - 'Citrus Canker': 2000 Images
 
+**Steps to follow**:
+
+1. Gather around 2k images using google images or take pictures using cell phone.
+2. Rename your images in sequence using [rename_images.py] file.
+3. Label images use techniques mentioned by [EdjeElectronics](https://github.com/EdjeElectronics) from [here](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#3-gather-and-label-pictures)
+4. Upload your resepective images and annotated XML folder to given google drive location.
 
 **Next target date**:
 
