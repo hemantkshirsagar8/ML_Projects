@@ -16,16 +16,16 @@ Machine Learning and AI related project work.
 
 **Ongoing task**: Data collection and analysis
 
-**Divyanshu/Shubham**: Cotton boll weevil: 2000 Images
+...1. **Divyanshu/Shubham**: Cotton boll weevil: 2000 Images
 
-**Suvrat/Tushar**: Cotton aphid: 2000 Images
+...2. **Suvrat/Tushar**: Cotton aphid: 2000 Images
 
-**Viraj/Vivek/Bhagyashree**: Pest for oranges - 'Citrus Canker': 2000 Images
+...3. **Viraj/Vivek/Bhagyashree**: Pest for oranges - 'Citrus Canker': 2000 Images
 
 
 **Next target date**:
 
-**7 Sep**: _To come-up with image dataset_
+... **7 Sep**: _To come-up with image dataset_
 
 Doubts:
 Use [doubts.csv](doubts.csv) file to list your doubts.
