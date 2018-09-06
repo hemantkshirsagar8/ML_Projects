@@ -37,7 +37,7 @@ Machine Learning and AI related project work.
 **Next target date**:
 
 
-**7 Sep**: _To come-up with image dataset_
+**11 Sep**: _To come-up with image dataset_
 
 ----
 
