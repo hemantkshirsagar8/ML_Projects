@@ -2,33 +2,33 @@
 Machine Learning and AI related project work.
 
 **Contributer's**:
-1. Bhagyashree Borkar
-2. Divyanshu Goyanka
-3. Shubham Machewar
-4. Suvrat Mishra
-5. Tushar Hatwar
-6. Viraj Purohit
-7. Vivek Kadu 
+    1. Bhagyashree Borkar
+    2. Divyanshu Goyanka
+    3. Shubham Machewar
+    4. Suvrat Mishra
+    5. Tushar Hatwar
+    6. Viraj Purohit
+    7. Vivek Kadu 
 
 **Mentor**:
-1. Hemant Kshirsagar
+    1. Hemant Kshirsagar
 
 
 **Ongoing task**: Data collection and analysis
 
-..1. **Divyanshu/Shubham**: Cotton boll weevil: 2000 Images
+    1. **Divyanshu/Shubham**: Cotton boll weevil: 2000 Images
 
-..2. **Suvrat/Tushar**: Cotton aphid: 2000 Images
+    2. **Suvrat/Tushar**: Cotton aphid: 2000 Images
 
-..3. **Viraj/Vivek/Bhagyashree**: Pest for oranges - 'Citrus Canker': 2000 Images
+    3. **Viraj/Vivek/Bhagyashree**: Pest for oranges - 'Citrus Canker': 2000 Images
 
 
 **Next target date**:
 
-.. **7 Sep**: _To come-up with image dataset_
+    **7 Sep**: _To come-up with image dataset_
 
 Doubts:
-Use [doubts.csv](doubts.csv) file to list your doubts.
+    Use [doubts.csv](doubts.csv) file to list your doubts.
 
 Schedule:
 
@@ -46,8 +46,8 @@ Weeks [tentative end date] | Activity | Comments |Status
 _Note*: These are tentative dates._
 
 TensorFlow custom object detection - references:
-..1. [Creating TFRecords - TensorFlow Object Detection API Tutorial 4-6](https://www.youtube.com/watch?v=kq2Gjv_pPe8)
-..2. [How To Train an Object Detection Classifier Using TensorFlow 1.5 (GPU) on Windows 10](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
+    1. [Creating TFRecords - TensorFlow Object Detection API Tutorial 4-6](https://www.youtube.com/watch?v=kq2Gjv_pPe8)
+    2. [How To Train an Object Detection Classifier Using TensorFlow 1.5 (GPU) on Windows 10](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
 
 ML hints for your ideas:
 
@@ -84,15 +84,15 @@ Bonus Hint: [Playing Card detection using YOLO](https://www.youtube.com/watch?v=
 _Enough motivation, lets learn to implement it._
 
 Pre-requisite:
-1. Python
-2. Handling python jupyter notebook.
-3. Basic ML.
-4. Basic OpenCV.
+    1. Python
+    2. Handling python jupyter notebook.
+    3. Basic ML.
+    4. Basic OpenCV.
 
 
 Some reference links for learning;
-1. [Machine Learning](https://www.kaggle.com/learn/machine-learning)
-2. [Python](https://www.kaggle.com/learn/python)
+    1. [Machine Learning](https://www.kaggle.com/learn/machine-learning)
+    2. [Python](https://www.kaggle.com/learn/python)
 
 Some youtube channels to follow:
 1. Siraj Raval - ML and AI
@@ -105,7 +105,9 @@ Some youtube channels to follow:
     [Python Lectures](https://www.youtube.com/watch?v=rytP_vIjzeE&list=PLR-r0edywujd8D-R2Kue1C_wYEK_4Ii71&index=16)
     
 Online ML practice environment:
-1. [Kaggle](https://www.kaggle.com/kernels)
-2. [Kaggle Introduction video](https://www.youtube.com/watch?v=FloMHMOU5Bs)
-3. [Hackerrank](https://www.hackerrank.com/)
-4. [Pythonanywhere](https://www.pythonanywhere.com/)
+    1. [Google colabs](https://colab.research.google.com/)
+    2. [Floydhub](https://floydhub.com)
+    3. [Kaggle](https://www.kaggle.com/kernels)
+    4. [Kaggle Introduction video](https://www.youtube.com/watch?v=FloMHMOU5Bs)
+    5. [Hackerrank](https://www.hackerrank.com/)
+    6. [Pythonanywhere](https://www.pythonanywhere.com/)
