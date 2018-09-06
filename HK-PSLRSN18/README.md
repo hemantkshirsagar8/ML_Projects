@@ -1,6 +1,8 @@
 ## HK-PSLRSN18
 Machine Learning and AI related project work.
 
+----
+
 **Contributer's**:
 1. Bhagyashree Borkar
 2. Divyanshu Goyanka
@@ -13,6 +15,7 @@ Machine Learning and AI related project work.
 **Mentor**:
 1. Hemant Kshirsagar
 
+----
 
 **Ongoing task**: _Data collection and analysis_
 
@@ -29,11 +32,14 @@ Machine Learning and AI related project work.
 2. Rename your images in sequence using [rename_images.py](https://github.com/hemantkshirsagar8/ML_Projects/blob/master/HK-PSLRSN18/rename_images.py) file.
 3. Label images using techniques mentioned by [EdjeElectronics](https://github.com/EdjeElectronics) from [here](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#3-gather-and-label-pictures)
 4. Upload your resepective images and annotated XML folder to given google drive location.
+----
 
 **Next target date**:
 
 
 **7 Sep**: _To come-up with image dataset_
+
+----
 
 Doubts:
 
