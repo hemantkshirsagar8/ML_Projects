@@ -45,6 +45,8 @@ Doubts:
 
 Use [doubts.csv](doubts.csv) file to list your doubts.
 
+----
+
 Schedule:
 
 Weeks [tentative end date] | Activity | Comments |Status 
@@ -60,9 +62,13 @@ Weeks [tentative end date] | Activity | Comments |Status
 
 _Note*: These are tentative dates._
 
+----
+
 TensorFlow custom object detection - references:
 1. [Creating TFRecords - TensorFlow Object Detection API Tutorial 4-6](https://www.youtube.com/watch?v=kq2Gjv_pPe8)
 2. [How To Train an Object Detection Classifier Using TensorFlow 1.5 (GPU) on Windows 10](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
+
+----
 
 ML hints for your ideas:
 
@@ -95,6 +101,7 @@ ML hints for your ideas:
 
 Bonus Hint: [Playing Card detection using YOLO](https://www.youtube.com/watch?v=pnntrewH0xg)
 
+----
 
 _Enough motivation, lets learn to implement it._
 
@@ -104,6 +111,7 @@ Pre-requisite:
 3. Basic ML.
 4. Basic OpenCV.
 
+----
 
 Some reference links for learning;
     1. [Machine Learning](https://www.kaggle.com/learn/machine-learning)
