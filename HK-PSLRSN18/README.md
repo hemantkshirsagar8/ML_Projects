@@ -1,7 +1,7 @@
 ## HK-PSLRSN18
 Machine Learning and AI related project work.
 
-Contributer's:
+**Contributer's**:
 1. Bhagyashree Borkar
 2. Divyanshu Goyanka
 3. Shubham Machewar
@@ -10,20 +10,22 @@ Contributer's:
 6. Viraj Purohit
 7. Vivek Kadu 
 
-Mentor:
+**Mentor**:
 1. Hemant Kshirsagar
 
 
-Divyanshu/Shubham: Cotton boll weevil: 2000 Images
+**Ongoing task**: Data collection and analysis
 
-Suvrat/Tushar: Cotton aphid: 2000 Images
+**Divyanshu/Shubham**: Cotton boll weevil: 2000 Images
 
-Viraj/Vivek/Bhagyashree: Pest for ornages: 2000 Images
+**Suvrat/Tushar**: Cotton aphid: 2000 Images
+
+**Viraj/Vivek/Bhagyashree**: Pest for oranges - 'Citrus Canker': 2000 Images
 
 
-Next target date:
+**Next target date**:
 
-**7 Sep**: _To come-up with idea's_
+**7 Sep**: _To come-up with image dataset_
 
 Doubts:
 Use [doubts.csv](doubts.csv) file to list your doubts.
