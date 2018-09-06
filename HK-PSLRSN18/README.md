@@ -115,8 +115,8 @@ Pre-requisite:
 
 Some reference links for learning;
 
-    1. [Machine Learning](https://www.kaggle.com/learn/machine-learning)
-    2. [Python](https://www.kaggle.com/learn/python)
+1. [Machine Learning](https://www.kaggle.com/learn/machine-learning)
+2. [Python](https://www.kaggle.com/learn/python)
 
 Some youtube channels to follow:
 1. Siraj Raval - ML and AI
