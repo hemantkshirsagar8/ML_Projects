@@ -1,3 +1,12 @@
 Realtime Identification of crop diseases and pests using Machine Learning:-
+Custom object detection using AI/ML tensorflow to predict harmful pest in regional crops.
 
-Development of a software for identifying diseases and pest damage in crops. The software prompts the user to take an image through the camera of their smarphone/import the image to a desktop(or laptop) and it should be able to detect the culprit with the help of Machine Learning model trained using such images. The app should have access to the devices' camera. The model is trained on a dataset of ~2000 images for each disease/pest mentioned and the corresponding disease/pest should be also accompanied by the details about its symptoms, causes and measures to prevent it. The application has algorithms for object detection and image classification. Patter recognition algorithms are developed to provide a close match for all possible inputs.
+Development of a software for identifying diseases and pest damage in crops. The software prompts the user to take an image through the camera of their smarphone/import the image to a desktop(or laptop) and it should be able to detect the culprit with the help of Machine Learning model trained using such images. The app should have access to the devices' camera. The model is trained on a dataset of ~2000 images for each disease/pest mentioned and the corresponding disease/pest should be also accompanied by the details about its symptoms, causes and measures to prevent it. The application has algorithms for object detection and image classification. Pattern recognition algorithms are developed to provide a close match for all possible inputs.
+
+
+Attempt to use latest AI/ML techniques for custom object detection to provide valuable information to farmers about most hazardous pest found over regional crops.
+Develop and train the AI/ML model using tensorflow object detection and other Deep Neural Network techniques to identify/predict probable harmful pests generaly found in regional crops like Cotton and Citrus[Oranges]. 
+This model will try to recognise certain selected pests over the images and its predicted value with creating bounding boxes.
+This Model can be used as API to predict this custom objects[i.e. pests] for any given images, videos or webcam. This API further can be used in any web/mobile application.
+The model will be trained on a dataset of ~2000 images of most harmfull pest which generally causes damages in regional farms, such as Cotton boll weevil, Cotton aphid and Citrus Canker.
+The mOdel will predicted pests over any media files with its own description and supposed to be benificial in farming decision making for general user[i.e farmer].
