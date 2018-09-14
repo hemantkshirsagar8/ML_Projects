@@ -10,3 +10,11 @@ This model will try to recognise certain selected pests over the images and its 
 This Model can be used as API to predict this custom objects[i.e. pests] for any given images, videos or webcam. This API further can be used in any web/mobile application.
 The model will be trained on a dataset of ~2000 images of most harmfull pest which generally causes damages in regional farms, such as Cotton boll weevil, Cotton aphid and Citrus Canker.
 The mOdel will predicted pests over any media files with its own description and supposed to be benificial in farming decision making for general user[i.e farmer].
+
+-----Suvrat-----
+Attempt to use latest AI/ML techniques for custom object detection to provide valuable information to farmers about most hazardous pests found over regional crops.
+Develop and train the AI/ML model using tensorflow object detection and other Deep Neural Network techniques to identify/predict probable harmful pests generally found in regional crops like Cotton and Citrus[Oranges]. 
+This model will try to recognise certain selected pests over the images and its predicted value along with creating bounding boxes.
+This Model can be used as an API to predict these custom objects[i.e. pests] for any given images, videos or live webcam feed. This API can be furthur used in any web/mobile application.
+The model will be trained on a dataset of ~2000 images of most harmful pests which generally cause damages in regional farms, such as Cotton boll weevil, Cotton aphid and Citrus Canker.
+This model will predict pests over any media files with its own description and it is supposed to be benificial to farmers by allowing them to make better decisions about which pesticides to choose.
