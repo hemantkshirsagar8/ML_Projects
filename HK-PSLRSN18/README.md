@@ -37,7 +37,17 @@ Machine Learning and AI related project work.
 **Next target date**:
 
 
-**14 Oct**: _To come-up with image dataset_
+**14 Oct**: _Discusion-model fine tuning_
+
+----
+Cotton-Aphid output with our custom ML model:
+
+
+![Cotton Aphid 1](cotton_aphid/ca_test_01_out.jpg?raw=true "Cotton Aphid")
+
+![Cotton Aphid 2](cotton_aphid/ca_test_02_out.jpg?raw=true "Cotton Aphid")
+
+![Cotton Aphid 3](cotton_aphid/ca_test_03_out.jpeg?raw=true "Cotton Aphid")
 
 ----
 
