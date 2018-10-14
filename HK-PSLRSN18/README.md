@@ -37,7 +37,7 @@ Machine Learning and AI related project work.
 **Next target date**:
 
 
-**11 Sep**: _To come-up with image dataset_
+**14 Oct**: _To come-up with image dataset_
 
 ----
 
@@ -53,9 +53,9 @@ Weeks [tentative end date] | Activity | Comments |Status
 ---|---|---|---|
 1 week [17 Aug]|Come-up with idea's|Fill up your idea's in [idea_list](idea_list.csv). |Completed
 1 week [24 Aug]|Python hands-on, learning and discusion on received ideas.|NA|Completed
-1 week [31 Aug]| Problem statement finalisation|NA|In-progress
-1 week [07 Sep]|Design level discusion|NA|In-progress
-3-4 weeks[TBD]|Implementation|NA|Open
+1 week [31 Aug]| Problem statement finalisation|NA|Completed
+1 week [07 Sep]|Design level discusion|NA|Completed
+3-4 weeks[TBD]|Implementation|NA|In-Progress
 1 week[TBD]|Unit Testing|NA|Open
 1 week[TBD]|Internal Demo|NA|Open
 1 week[TBD]|Documentation|NA|Open
