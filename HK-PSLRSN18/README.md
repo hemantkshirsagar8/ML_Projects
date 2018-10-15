@@ -20,6 +20,15 @@ Machine Learning and AI related project work.
 **Cotton-Aphid output** with our custom ML model:
 
 
+Video:
+
+
+[![Cotton Aphids](http://img.youtube.com/vi/owTYf5SyRhE/0.jpg)](https://www.youtube.com/watch?v=owTYf5SyRhE "Cotton Aphids")
+
+
+Images:
+
+
 ![Cotton Aphid 1](cotton_aphid/ca_test_01_out.jpg?raw=true "Cotton Aphid")
 
 ![Cotton Aphid 2](cotton_aphid/ca_test_02_out.jpg?raw=true "Cotton Aphid")
